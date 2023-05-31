@@ -12,4 +12,4 @@
 
 > 笔记比较私人化，显得潦草X:D。
 > 笔记文件太大辣，所以就上传一个。
-> ![Qin] (/Linear-Algebra/Qin/Qin.jpg)
+> ![Qin] (Linear-Algebra/Qin/Qin.jpg)
